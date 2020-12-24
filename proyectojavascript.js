@@ -1,4 +1,4 @@
-var vida = 100;
+var vida = 110;
 
 function muestraVida(nombre) {
     console.log("Has sido ataquado con: " + nombre);
